@@ -5,13 +5,13 @@ See the app on heroku at <a href="http://cs169-pgm.herokuapp.com">cs169-pgm.hero
 
 See our tracking board at <a href="https://www.pivotaltracker.com/n/projects/1891561">Pivotal Tracker</a>
 
-Travis CS Badge: [![Build Status](https://travis-ci.org/ashirahattia/cs169-pgm.svg?branch=master)](https://travis-ci.org/ashirahattia/cs169-pgm)
+Travis CS Badge: [![Build Status](https://travis-ci.org/an-ju/cs169-pgm.svg?branch=master)](https://travis-ci.org/an-ju/cs169-pgm)
 
 CodeClimate Badge:
-<a href="https://codeclimate.com/github/ashirahattia/cs169-pgm"><img src="https://codeclimate.com/github/ashirahattia/cs169-pgm/badges/gpa.svg" /></a>
+<a href="https://codeclimate.com/github/an-ju/cs169-pgm"><img src="https://codeclimate.com/github/an-ju/cs169-pgm/badges/gpa.svg" /></a>
 
 CodeClimate Coverage Badge: 
-<a href="https://codeclimate.com/github/ashirahattia/cs169-pgm/coverage"><img src="https://codeclimate.com/github/ashirahattia/cs169-pgm/badges/coverage.svg" /></a>
+<a href="https://codeclimate.com/github/an-ju/cs169-pgm/coverage"><img src="https://codeclimate.com/github/an-ju/cs169-pgm/badges/coverage.svg" /></a>
 
 <h2>MVP User Stories</h2>
 As a TA
